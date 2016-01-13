@@ -1,11 +1,12 @@
-5c6757848a3c853f0287043da9f6bba3 *DESCRIPTION
+f1c2a864cba7d694759dc678008c08d5 *DESCRIPTION
 999f06ba59fc35aaa7a6046c00fbd252 *NAMESPACE
 16d729316fa423c88fc5465cb1147d37 *R/canvec.R
 0045546ccdf061dbea0d1d9bca6c4bb9 *R/canvec.qplot.R
 5ccb9d5c5482c956e81e0e4da7d7bd81 *R/data.R
-7b8ac26f65bcaa4b0a2fc2079b5767b1 *R/nts.R
+d9ad096ca4f8f7e89931daaa5dc7c5d8 *R/nts.R
 65adbc8627d4e0d4daf8ba0b2cab7373 *R/ntstiles.R
 7f36944a5ee30de58d0d1db91fc2c2e0 *R/rcanvec.R
+d48210e6752ddd05b17967c796864676 *README.md
 8b4e5c55bf5f9b01a34c85f81ba68e83 *data/canvec_layers.rda
 b6992e9e55e134008aecc70649ee6976 *man/canvec.cachedir.Rd
 1e2f41b24e72d0f1bfa71c179c599b6d *man/canvec.cleanup.Rd
@@ -27,7 +28,7 @@ fe7acdbbde0968d531bcd46af06d6ab9 *man/nts.bbox.Rd
 7c3d8a66806ee55bcd15bd10cdce8a1b *man/nts.bybbox.Rd
 d3ad395cac329fca98bc59e467c8d0d6 *man/nts.idat.Rd
 190538f3ed141be60ec8bd5ac25e42d5 *man/ntsstring.Rd
-a8ac863234714cd07b5a37c2a88e8f67 *man/rcanvec-package.Rd
+6dbfd1e70599862e17def802221fcbda *man/rcanvec-package.Rd
 1a4b189b6041d77e42b670a4bff2604a *tests/manual/manpage_tests.R
 5a676c74571940386f8e8053e1f44609 *tests/testthat.R
 9167699c124e0e012fe47de2fd658751 *tests/testthat/test_nts.R
