@@ -1,12 +1,11 @@
-d012b57e3417cd77e78953d5ee0ae3eb *DESCRIPTION
+40fc3188ccb16364fde6956fff332101 *DESCRIPTION
 772e4bf82e1577c8a73a3a6b445418e0 *NAMESPACE
-cd758f2d88925188874a80c7cceaf639 *R/canvec.R
+03004fe5bfbc235c11055ef42db7ee91 *R/canvec.R
 0045546ccdf061dbea0d1d9bca6c4bb9 *R/canvec.qplot.R
 5ccb9d5c5482c956e81e0e4da7d7bd81 *R/data.R
 d9ad096ca4f8f7e89931daaa5dc7c5d8 *R/nts.R
 65adbc8627d4e0d4daf8ba0b2cab7373 *R/ntstiles.R
 7f36944a5ee30de58d0d1db91fc2c2e0 *R/rcanvec.R
-dcbcf6d441f4ed8bbe02866111d2a0ca *README.md
 1905f12f7e93d1046e3720fa7d216e99 *data/canvec_layers.rda
 cff46f63df84adc281d0b97b29e3ada8 *man/canvec.cachedir.Rd
 6662b89d3312c0c80bfd6c12a13eaf86 *man/canvec.cleanup.Rd
@@ -18,7 +17,7 @@ f61101376afb8f3f2e7e8e3e80736578 *man/canvec.findlayer.Rd
 1374fbe42f1237a6dcfca12631980bb7 *man/canvec.loadfromdir.Rd
 fb5ff1f2947c61b2a19af169cdadee1c *man/canvec.plot.Rd
 e8076d5d31008bd9ccf254486480acb6 *man/canvec.qplot.Rd
-bf807707b20a80db39c66c069021e643 *man/canvec.url.Rd
+a3680c2d80d8b24adf32d4b126fc82d8 *man/canvec.url.Rd
 da4f5beecb269b6366dfb79757a8ac72 *man/canvec_layers.Rd
 0aab67eb8eeb4f5170c3c2520e0f3ead *man/nts.Rd
 4db55b40f30fa959c551709a24d5f5c8 *man/nts.SCALE250K.Rd
@@ -28,7 +27,7 @@ f5f11b6660739d4547bcd841a2b16920 *man/nts.SCALE50K.Rd
 df4a81f8f32461c961527c9f4ec2b062 *man/nts.bybbox.Rd
 db59c50eb85dd01ebda11a697293a7e0 *man/nts.idat.Rd
 372cdabe9fd1c169d0bd8dd571db6f9b *man/ntsstring.Rd
-141430b9e0a6227f295f2b25cb96aa66 *man/rcanvec-package.Rd
+79f5a59d93f19f68420f4e3e61f2207a *man/rcanvec-package.Rd
 1a4b189b6041d77e42b670a4bff2604a *tests/manual/manpage_tests.R
 5a676c74571940386f8e8053e1f44609 *tests/testthat.R
 9167699c124e0e012fe47de2fd658751 *tests/testthat/test_nts.R
